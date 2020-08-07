@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html, body {
+    width: 100%;
+    height: 100%;
+}
+
+body {
+    overflow-x: hidden;
+}
+
+h1 {
+    font-size: 48px;
+    text-align: center;
+}
+
+#focus {
+    margin-left: 10%;
+    margin-top: 10%;
+    margin-right: 10%;
+    margin-bottom: 10%;
+    padding: 15px;
+    background-color: white;
+}
+
+#focus p {
+    line-height: 32px;
+    font-size: 24px;
+}
+
+#focus img {
+    width: 100%;
+}
+
+table {
+    font-size: 18px;
+    line-height: 24px;
+    width: 100%;
+}
+
+table td {
+    text-align: right;
+}
